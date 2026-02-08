@@ -1,6 +1,7 @@
 include "%L"
 
-<Multi_key> <m> <s> : "😀" # smile
+# Emoji
+<Multi_key> <m> <s> : "😄" # smile
 <Multi_key> <m> <c> : "😂" # cry
 <Multi_key> <m> <l> : "😍" # love
 <Multi_key> <m> <v> : "✌️"  # victory
@@ -17,3 +18,12 @@ include "%L"
 <Multi_key> <m> <x> : "🎉" # xellebrate
 <Multi_key> <m> <1> : "💯" # 100%
 <Multi_key> <m> <t> : "🥂" # toast
+<Multi_key> <m> <p> : "🙏" # pray
+<Multi_key> <m> <i> : "😉" # wink
+<Multi_key> <m> <o> : "👌" # OK
+<Multi_key> <m> <g> : "👋" # greeting
+<Multi_key> <m> <a> : "💪" # arm
+<Multi_key> <m> <b> : "🤯" # blowing
+
+# Typography
+<Multi_key> <space> <space> : "—"
