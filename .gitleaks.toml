@@ -1,0 +1,4 @@
+[[allowlist]]
+description = "False positive: generic-api-key in dotfiles/.bashrc"
+rules = ["generic-api-key"]
+paths = ["dotfiles/.bashrc"]
